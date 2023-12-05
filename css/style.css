@@ -13,3 +13,8 @@ img{
 *{
     background-color:antiquewhite;
 }
+
+.bulletCenter{
+    width:300px;
+    margin: 0 auto;
+}
