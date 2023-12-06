@@ -10,11 +10,16 @@ img{
     width:400px;
 }
 
-*{
-    background-color:antiquewhite;
+html{
+    background-color:antiquewhite
+    
 }
 
 .bulletCenter{
     width:300px;
     margin: 0 auto;
+    border:5px solid black; 
+    padding:70px;
+    background-color:antiquewhite;
+    
 }
