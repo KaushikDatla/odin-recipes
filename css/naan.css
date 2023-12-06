@@ -16,3 +16,11 @@ html{
     width:1000px;
     margin:0 auto;
 }
+
+button{
+    margin: 8px solid black;
+    padding-left: 10px;
+    padding-right:10px;
+    padding-top: 5px;
+    padding-bottom:5px;
+}
