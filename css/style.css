@@ -19,6 +19,7 @@ html{
     width:300px;
     margin: 0 auto;
     border:5px solid black; 
+    border-radius: 30px;
     padding:70px;
     background-color:antiquewhite;
     
